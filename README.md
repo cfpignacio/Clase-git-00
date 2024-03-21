@@ -1,3 +1,5 @@
 # mi primer repositorio en github
 
-esta es mi primer apliacion
+esta es mi primer aplicacion
+
+Terminando.
